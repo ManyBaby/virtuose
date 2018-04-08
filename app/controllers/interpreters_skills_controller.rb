@@ -1,0 +1,2 @@
+class InterpretersSkillsController < ApplicationController
+end
