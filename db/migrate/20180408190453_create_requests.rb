@@ -9,7 +9,6 @@ class CreateRequests < ActiveRecord::Migration[5.1]
       t.datetime :done
       t.datetime :paid
       t.text :comment
-      
       t.timestamps
     end
   end
